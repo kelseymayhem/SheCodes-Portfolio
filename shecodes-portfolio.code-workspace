@@ -1,11 +1,15 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "images",
+			"path": "../images"
 		},
 		{
-			"path": "../images"
+			"name": "SheCodes-Portfolio",
+			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SheCodes-Portfolio"
+	}
 }
